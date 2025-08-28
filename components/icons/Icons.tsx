@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 export const BookOpenIcon: React.FC = () => (
@@ -14,8 +13,8 @@ export const ClipboardListIcon: React.FC = () => (
 );
 
 export const AcademicCapIcon: React.FC = () => (
-  <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
-    <path strokeLinecap="round" strokeLinejoin="round" d="M4.26 10.147a60.436 60.436 0 00-.491 6.347A48.627 48.627 0 0112 20.904a48.627 48.627 0 018.232-4.41 60.46 60.46 0 00-.491-6.347m-15.482 0a50.57 50.57 0 00-2.658-.813A59.905 59.905 0 0112 3.493a59.902 59.902 0 0110.399 5.84c-.896.248-1.783.52-2.658.814m-15.482 0A50.697 50.697 0 0112 13.489a50.702 50.702 0 017.74-3.342M6.75 15a.75.75 0 100-1.5.75.75 0 000 1.5z" />
+  <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" viewBox="0 0 20 20" fill="currentColor">
+    <path d="M10.394 2.08a1 1 0 00-.788 0l-7 3a1 1 0 000 1.84L5.25 8.051a.999.999 0 011.056 0l1.25.502a1 1 0 001.056 0l3-1.202a1 1 0 000-1.84l-7-3zM3.75 9.423l4.5 1.801a1 1 0 001.056 0l4.5-1.801v3.732a1 1 0 00.256.673l1.5 2.101a1 1 0 001.44-.224l.5-1a1 1 0 00-.224-1.44l-1.5-2.101A1 1 0 0015.25 12v-3.732a1 1 0 00-.256-.673l-1.5-2.101a1 1 0 00-1.44.224l-.5 1a1 1 0 00.224 1.44l1.5 2.101a1 1 0 00.744.327z" />
   </svg>
 );
 
