@@ -1,4 +1,4 @@
-import { GoogleGenAI } from "@google/genai";
+import { GoogleGenAI } from "https://aistudiocdn.com/google-genai@^0.2.1";
 import type { Language } from '../types';
 
 // The user's prompt mentions that the Gemini Pro API key is stored in .env.
