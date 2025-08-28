@@ -1,0 +1,5 @@
+{
+  "name": "Student Buddy",
+  "description": "An AI-powered application to help students with their daily academic and personal life, featuring a revision tutor, daily planner, smart notes, exam prep, and a community space.",
+  "requestFramePermissions": []
+}
